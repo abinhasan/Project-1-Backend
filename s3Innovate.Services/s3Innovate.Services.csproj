@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\s3Innovate.Domain.Interfaces\s3Innovate.Domain.Interfaces.csproj" />
+    <ProjectReference Include="..\s3Innovate.Services.Interfaces\s3Innovate.Services.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

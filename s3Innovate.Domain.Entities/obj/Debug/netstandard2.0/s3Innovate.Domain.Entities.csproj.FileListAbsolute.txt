@@ -1,0 +1,14 @@
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Domain.Entities\bin\Debug\netstandard2.0\s3Innovate.Domain.Entities.deps.json
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Domain.Entities\bin\Debug\netstandard2.0\s3Innovate.Domain.Entities.dll
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Domain.Entities\bin\Debug\netstandard2.0\s3Innovate.Domain.Entities.pdb
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Domain.Entities\obj\Debug\netstandard2.0\s3Innovate.Domain.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Domain.Entities\obj\Debug\netstandard2.0\s3Innovate.Domain.Entities.AssemblyInfoInputs.cache
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Domain.Entities\obj\Debug\netstandard2.0\s3Innovate.Domain.Entities.AssemblyInfo.cs
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Domain.Entities\obj\Debug\netstandard2.0\s3Innovate.Domain.Entities.dll
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Domain.Entities\obj\Debug\netstandard2.0\s3Innovate.Domain.Entities.pdb
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Domain.Entities\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Domain.Entities\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Domain.Entities\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Domain.Entities\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Domain.Entities\obj\Debug\netstandard2.0\s3Innovate.Domain.Entities.csproj.CopyComplete
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Domain.Entities\obj\Debug\netstandard2.0\s3Innovate.Domain.Entities.csprojAssemblyReference.cache

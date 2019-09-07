@@ -1,0 +1,14 @@
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Context\bin\Debug\netstandard2.0\s3Innovate.Context.deps.json
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Context\bin\Debug\netstandard2.0\s3Innovate.Context.dll
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Context\bin\Debug\netstandard2.0\s3Innovate.Context.pdb
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Context\obj\Debug\netstandard2.0\s3Innovate.Context.csproj.CoreCompileInputs.cache
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Context\obj\Debug\netstandard2.0\s3Innovate.Context.AssemblyInfoInputs.cache
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Context\obj\Debug\netstandard2.0\s3Innovate.Context.AssemblyInfo.cs
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Context\obj\Debug\netstandard2.0\s3Innovate.Context.dll
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Context\obj\Debug\netstandard2.0\s3Innovate.Context.pdb
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Context\bin\Debug\netstandard2.0\s3Innovate.Domain.Entities.dll
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Context\bin\Debug\netstandard2.0\s3Innovate.Domain.Interfaces.dll
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Context\bin\Debug\netstandard2.0\s3Innovate.Domain.Interfaces.pdb
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Context\bin\Debug\netstandard2.0\s3Innovate.Domain.Entities.pdb
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Context\obj\Debug\netstandard2.0\s3Innovate.Context.csprojAssemblyReference.cache
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Context\obj\Debug\netstandard2.0\s3Innovate.Context.csproj.CopyComplete

@@ -1,0 +1,13 @@
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Infrastructure.Data\bin\Debug\netstandard2.0\s3Innovate.Infrastructure.Data.deps.json
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Infrastructure.Data\bin\Debug\netstandard2.0\s3Innovate.Infrastructure.Data.dll
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Infrastructure.Data\bin\Debug\netstandard2.0\s3Innovate.Infrastructure.Data.pdb
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Infrastructure.Data\obj\Debug\netstandard2.0\s3Innovate.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Infrastructure.Data\obj\Debug\netstandard2.0\s3Innovate.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Infrastructure.Data\obj\Debug\netstandard2.0\s3Innovate.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Infrastructure.Data\obj\Debug\netstandard2.0\s3Innovate.Infrastructure.Data.dll
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Infrastructure.Data\obj\Debug\netstandard2.0\s3Innovate.Infrastructure.Data.pdb
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Infrastructure.Data\bin\Debug\netstandard2.0\s3Innovate.Domain.Entities.dll
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Infrastructure.Data\bin\Debug\netstandard2.0\s3Innovate.Domain.Interfaces.dll
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Infrastructure.Data\bin\Debug\netstandard2.0\s3Innovate.Domain.Interfaces.pdb
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Infrastructure.Data\bin\Debug\netstandard2.0\s3Innovate.Domain.Entities.pdb
+C:\Users\Abin\Source\Repos\s3Innovate\s3Innovate.Infrastructure.Data\obj\Debug\netstandard2.0\s3Innovate.Infrastructure.Data.csproj.CopyComplete
